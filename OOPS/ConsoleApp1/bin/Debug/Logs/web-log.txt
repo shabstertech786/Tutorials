@@ -1,0 +1,66 @@
+DEBUG 2020-09-30 20:37:44,378  2817ms DESKTOP-UF5GJOV        Main               - this is debug
+INFO  2020-09-30 20:37:45,510  3949ms DESKTOP-UF5GJOV        Main               - MEF setup
+FATAL 2020-09-30 20:37:46,823  5262ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-09-30 20:45:55,251  2520ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-09-30 20:45:56,161  3429ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-09-30 20:45:56,165  3433ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-09-30 20:45:56,715  3983ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-09-30 20:45:57,218  4486ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-09-30 20:45:57,295  4563ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-09-30 20:45:57,731  4999ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-10-12 13:44:12,791 15266ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-10-12 13:44:13,662 16137ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-10-12 13:44:13,665 16140ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-10-12 13:44:13,863 16339ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-10-12 13:44:14,752 17227ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-10-12 13:44:14,887 17362ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-10-12 13:44:14,993 17468ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-10-13 15:59:29,176  4780ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-10-13 15:59:30,696  6301ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-10-13 15:59:30,700  6305ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-10-13 15:59:31,213  6817ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-10-13 15:59:32,232  7837ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-10-13 15:59:32,374  7979ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-10-13 15:59:32,589  8193ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-10-14 17:20:22,257  5595ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-10-14 17:20:22,933  6271ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-10-14 17:20:22,937  6275ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-10-14 17:20:23,129  6466ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-10-14 17:20:23,381  6718ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-10-14 17:20:23,515  6852ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-10-14 17:20:24,073  7411ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-10-14 17:23:04,693  3099ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-10-14 17:23:05,200  3606ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-10-14 17:23:05,202  3608ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-10-14 17:23:05,450  3856ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-10-14 17:23:06,132  4537ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-10-14 17:23:06,203  4608ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-10-14 17:23:06,412  4817ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-10-14 20:25:17,878  3925ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-10-14 20:25:18,244  4291ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-10-14 20:25:18,287  4334ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-10-14 20:25:18,432  4479ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-10-14 20:25:18,684  4731ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-10-14 20:25:18,820  4867ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-10-14 20:25:19,485  5532ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-10-14 20:33:51,376  2826ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-10-14 20:33:51,774  3224ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-10-14 20:33:51,820  3270ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-10-14 20:33:51,952  3402ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-10-14 20:33:52,150  3601ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-10-14 20:33:52,203  3654ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-10-14 20:33:52,349  3799ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-10-14 20:35:05,325  3275ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-10-14 20:35:05,775  3725ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-10-14 20:35:05,822  3772ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-10-14 20:35:06,044  3994ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-10-14 20:35:06,691  4641ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-10-14 20:35:06,745  4695ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-10-14 20:35:06,884  4834ms DESKTOP-UF5GJOV        Main               - unity container initialised
+DEBUG 2020-10-14 20:39:26,813  2142ms DESKTOP-UF5GJOV        Main               - this is debug
+DEBUG 2020-10-14 20:39:26,881  2210ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - start
+DEBUG 2020-10-14 20:39:26,928  2257ms DESKTOP-UF5GJOV        SetupContainer     - SetupContainer - end
+INFO  2020-10-14 20:39:26,929  2258ms DESKTOP-UF5GJOV        Main               - MEF setup
+DEBUG 2020-10-14 20:39:26,938  2267ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - start
+DEBUG 2020-10-14 20:39:26,992  2321ms DESKTOP-UF5GJOV        RegisterTypes      - RegisterTypes - end
+FATAL 2020-10-14 20:39:26,992  2321ms DESKTOP-UF5GJOV        Main               - unity container initialised
