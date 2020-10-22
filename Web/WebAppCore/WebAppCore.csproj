@@ -15,6 +15,7 @@
 
     <ItemGroup>
         <None Remove="Modules\Login\src\components\Login.tsx" />
+        <None Remove="Modules\Login\src\components\Toastify.tsx" />
         <None Remove="Modules\Login\src\layouts\LoginLayout.tsx" />
         <None Remove="Modules\Student\src\components\Login.tsx" />
         <None Remove="Modules\Student\src\components\StudentList.tsx" />
@@ -40,8 +41,8 @@
         <TypeScriptCompile Include="Modules\Login\src\components\Login.tsx">
           <SubType>Code</SubType>
         </TypeScriptCompile>
+        <TypeScriptCompile Include="Modules\Login\src\components\Toastify.tsx" />
         <TypeScriptCompile Include="Modules\Login\src\layouts\LoginLayout.tsx" />
-        <TypeScriptCompile Include="Modules\Student\src\components\Login.tsx" />
         <TypeScriptCompile Include="Modules\Student\src\components\StudentList.tsx" />
         <TypeScriptCompile Include="Modules\Student\src\layouts\StudentLayout.tsx" />
     </ItemGroup>

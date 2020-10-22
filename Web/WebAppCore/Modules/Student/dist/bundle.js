@@ -123,6 +123,9 @@ class StudentList extends React.Component {
     render() {
         return (React.createElement("div", null, "this is student component"));
     }
+    componentDidCatch(error, info) {
+        console.log(error);
+    }
 }
 exports.default = StudentList;
 

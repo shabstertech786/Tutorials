@@ -16,7 +16,11 @@
       <SubType>Code</SubType>
     </TypeScriptCompile>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <TypeScriptCompile Update="Modules\Login\src\components\Toastify.tsx">
+      <SubType>Code</SubType>
+    </TypeScriptCompile>
+  </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Update="Modules\Student\src\components\StudentList.tsx">
       <SubType>Code</SubType>
