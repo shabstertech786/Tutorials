@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\D\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\WebAppCore.csproj": {}
+    "E:\\shabwork\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\WebAppCore.csproj": {}
   },
   "projects": {
-    "C:\\D\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\WebAppCore.csproj": {
+    "E:\\shabwork\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\WebAppCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\WebAppCore.csproj",
+        "projectUniqueName": "E:\\shabwork\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\WebAppCore.csproj",
         "projectName": "WebAppCore",
-        "projectPath": "C:\\D\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\WebAppCore.csproj",
+        "projectPath": "E:\\shabwork\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\WebAppCore.csproj",
         "packagesPath": "C:\\Users\\mshabbir\\.nuget\\packages\\",
-        "outputPath": "C:\\D\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\obj\\",
+        "outputPath": "E:\\shabwork\\Shab-Tutorials\\Tutorials\\Web\\WebAppCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"

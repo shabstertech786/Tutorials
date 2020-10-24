@@ -9,6 +9,7 @@ namespace WebAppCore.Controllers
     using System.Diagnostics;
     using System.Linq;
     using System.Threading.Tasks;
+    using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.Extensions.Logging;
     using WebAppCore.Models;
@@ -42,6 +43,7 @@ namespace WebAppCore.Controllers
         /// Logins this instance.
         /// </summary>
         /// <returns>The Login</returns>
+        [Authorize]
         public IActionResult Login()
         {
             return View();

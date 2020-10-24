@@ -143,6 +143,7 @@ exports.default = component;
 Object.defineProperty(exports, "__esModule", { value: true });
 const React = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 const Toastify_1 = __webpack_require__(/*! ./Toastify */ "./Modules/Login/src/components/Toastify.tsx");
+const react_bootstrap_1 = __webpack_require__(/*! react-bootstrap */ "./node_modules/react-bootstrap/esm/index.js");
 class Login extends React.Component {
     constructor() {
         super(...arguments);
@@ -157,6 +158,7 @@ class Login extends React.Component {
         return (React.createElement(React.Fragment, null,
             React.createElement("input", { type: "textbox", id: "username" }),
             React.createElement("input", { type: "textbox", id: "password" }),
+            React.createElement(react_bootstrap_1.Button, null, "Login"),
             React.createElement(Toastify_1.default, { Header: this.state.Toast.Header, Body: this.state.Toast.Body, visible: true })));
     }
     componentDidCatch(error, info) {

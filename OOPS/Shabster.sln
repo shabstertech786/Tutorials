@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepts", "ConsoleApp1\Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppCore", "..\Web\WebAppCore\WebAppCore.csproj", "{B0DD184B-CAC2-44A3-9120-4D3B1B90770B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactAuth", "..\Web\ReactSampleWithCli\ReactAuth\ReactAuth.csproj", "{A2164881-F3A8-44E8-A52B-4835E48B10C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B0DD184B-CAC2-44A3-9120-4D3B1B90770B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0DD184B-CAC2-44A3-9120-4D3B1B90770B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0DD184B-CAC2-44A3-9120-4D3B1B90770B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2164881-F3A8-44E8-A52B-4835E48B10C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2164881-F3A8-44E8-A52B-4835E48B10C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2164881-F3A8-44E8-A52B-4835E48B10C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2164881-F3A8-44E8-A52B-4835E48B10C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -28,6 +30,11 @@ namespace WebAppCore
         {
             services.AddTransient<IHomeRepository, HomeRepository>();
             services.AddControllersWithViews();
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                                     .AddJwtBearer(JwtBearerDefaults.AuthenticationScheme,
+                                                    options => Configuration.Bind("JwtSettings", options))
+                                     .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme,
+                                                    options => Configuration.Bind("CookieSettings", options));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -58,6 +65,7 @@ namespace WebAppCore
             });
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

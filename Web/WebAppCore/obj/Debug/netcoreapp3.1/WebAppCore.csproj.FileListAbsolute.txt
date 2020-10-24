@@ -203,8 +203,6 @@ C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\bin\Debug\netcoreapp3.1\zh-Hant\Mic
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.csprojAssemblyReference.cache
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.AssemblyInfoInputs.cache
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.AssemblyInfo.cs
-C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.csproj.CoreCompileInputs.cache
-C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.MvcApplicationPartsAssemblyInfo.cache
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.RazorAssemblyInfo.cache
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.RazorAssemblyInfo.cs
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.TagHelpers.input.cache
@@ -228,3 +226,12 @@ C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\staticwebas
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.dll
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.pdb
 C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.genruntimeconfig.cache
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.csproj.CoreCompileInputs.cache
+C:\D\Shab-Tutorials\Tutorials\Web\WebAppCore\obj\Debug\netcoreapp3.1\WebAppCore.MvcApplicationPartsAssemblyInfo.cache

@@ -10,7 +10,7 @@ function Toastify(props: any) {
         <div className="container">
             <Toast onClose={() => setShow(false)} show={show} delay={2000} autohide>
                 <Toast.Header>
-                    <strong className="mr-auto">Bootstrap Toast</strong>
+                    <strong className="mr-auto">{Header}</strong>
                     <small>11 mins ago</small>
                 </Toast.Header>
                 <Toast.Body>{Body}</Toast.Body>
