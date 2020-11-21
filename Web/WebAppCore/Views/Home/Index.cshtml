@@ -1,0 +1,40 @@
+﻿@model IEnumerable<HomeModel>
+@{
+    ViewData["Title"] = "Home Page";
+    var popup = new ModalPopup()
+    {
+        CloseButton = "Close",
+        Footer = "Press Submit",
+        SubmitButton = "Submit",
+        Id = "EditStudent",
+        Header = "Edit Student",
+        PartialView = null,
+    };
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="container-fluid" id="std">
+    here the react component will appear
+</div>
+<!--<div class="container">
+    <div class="row font-weight-bold border">
+        <div class="col-2 ">Student Name</div>
+        <div class="col-2 ">Semester</div>
+        <div class="col-2 ">Roll No</div>
+    </div>
+    @foreach (var row in Model)
+    {
+        <div class="row border">
+            <div class="col-2 ">@row.StudentName</div>
+            <div class="col-2 ">@row.Semester</div>
+            <div class="col-2 ">@row.RollNo</div>
+            <div class="col-2 ">
+                <a href="home/ModalPopUp/1" data-target="#myModal">Edit</a>
+            </div>
+        </div>
+    }-->
+@* @Html.Partial("_ModalPopUp", popup)*@
+<script src="~/Modules/Student/dist/bundle.js"></script>
