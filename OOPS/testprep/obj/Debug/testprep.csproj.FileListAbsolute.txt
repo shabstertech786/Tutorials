@@ -1,0 +1,7 @@
+E:\shabwork\Shab-Tutorials\Tutorials\OOPS\testprep\bin\Debug\testprep.exe.config
+E:\shabwork\Shab-Tutorials\Tutorials\OOPS\testprep\bin\Debug\testprep.exe
+E:\shabwork\Shab-Tutorials\Tutorials\OOPS\testprep\bin\Debug\testprep.pdb
+E:\shabwork\Shab-Tutorials\Tutorials\OOPS\testprep\obj\Debug\testprep.csprojAssemblyReference.cache
+E:\shabwork\Shab-Tutorials\Tutorials\OOPS\testprep\obj\Debug\testprep.csproj.CoreCompileInputs.cache
+E:\shabwork\Shab-Tutorials\Tutorials\OOPS\testprep\obj\Debug\testprep.exe
+E:\shabwork\Shab-Tutorials\Tutorials\OOPS\testprep\obj\Debug\testprep.pdb
